@@ -1,0 +1,56 @@
+{
+  "name": "profile",
+  "version": "0.1.0",
+  "description": "NFT Gallery",
+  "author": "ilpaz",
+  "homepage": ".",
+  "engines": {
+    "node": "14.17.3"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.9.3",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "aos": "^2.3.4",
+    "ipfs-http-client": "^51.0.1",
+    "bootstrap": "^4.1.0",
+    "jquery": "^3.6.0",
+    "moment": "^2.29.1",
+    "popper.js": "^1.16.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-helmet": "^6.1.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "sass": "^1.39.2",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web-vitals": "^1.0.1",
+    "web3": "^1.4.0"
+  },
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.5.0",
+    "@openzeppelin/test-helpers": "^0.5.12",
+    "@truffle/hdwallet-provider": "^2.0.8",
+    "dotenv": "^10.0.0",
+    "truffle": "^5.3.14",
+    "truffle-hdwallet-provider-privkey": "^0.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "trf": "truffle compile && truffle test && truffle migrate",
+    "reset": "truffle migrate --reset",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

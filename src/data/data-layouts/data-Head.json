@@ -1,0 +1,30 @@
+[
+    {    
+        "menuLinks" :[
+            {
+                "path":"/",
+                "title":"Home"
+            },
+            {
+                "path":"/explore",
+                "title":"Explore"
+            },
+            {
+                "path":"/my-assets",
+                "title":"My Assets"
+            },
+            {
+                "path":"/mint",
+                "title":"Mint NFT"
+            },
+            {
+                "path":"/faq",
+                "title":"FAQ"
+            }
+        ],
+        "connect__btn":"Connect Wallet",
+        "headerMenuPath":"/",
+        "headerMenuText":"Home",
+        "navMenuClass":"current-menu-item"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "kycFormSect":{
+
+            "KycRadioSect":[
+                {
+                    "text":"Artworks",
+                    "type":"radio"
+                },
+                {
+                    "text":"Gift Cards",
+                    "type":"radio"
+                },
+                {
+                    "text":"Collectibles",
+                    "type":"radio"
+                },
+                {
+                    "text":"Music",
+                    "type":"radio"
+                },
+                {
+                    "text":"Domains",
+                    "type":"radio"
+                },
+                {
+                    "text":"purchases",
+                    "type":"radio"
+                }
+            ]
+        },
+        "bestArtists__header":{
+            "title":"Mint NFT Now and List Your Creative",
+            "titleHighlight":"NFTs For Sale",
+            "mintingForm":[
+                {
+                    "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repudiandae similique corrupti possimus asperiores provident aliquid.",
+                    "type":"file",
+                    "Class":"inputFile",
+                    "ID":"item-file",
+                    "placeholder":"Enter your email"
+                },
+                {
+                    "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repudiandae similique corrupti possimus asperiores provident aliquid.",
+                    "type":"text",
+                    "ID":"item-name",
+                    "placeholder":"Enter NFT Name"
+                }
+            ],
+            "nftCategoryTitle":"Choose Item Category",
+            "nftCategory":[
+                {
+                    "val":"NFT Art",
+                    "text":"NFT Art"
+                },
+                {
+                    "val":"Game Cards",
+                    "text":"Game Cards"
+                },
+                {
+                    "val":"Music",
+                    "text":"Music"
+                },
+                {
+                    "val":"Collectabiles",
+                    "text":"Collectabiles"
+                },
+                {
+                    "val":"Domains",
+                    "text":"Domains"
+                },
+                {
+                    "val":"Purchases",
+                    "text":"Purchases"
+                }
+            ],
+            "subscribe__btn":"Mint NFT"
+        }
+    }
+]

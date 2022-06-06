@@ -1,0 +1,32 @@
+[
+    {   "subTitle":"Find us on Social",
+        "footerIconList":[
+            {"ico":"fa fa-facebook"},
+            {"ico":"fa fa-twitter"},
+            {"ico":"fa fa-google-plus"},
+            {"ico":"fa fa-instagram"},
+            {"ico":"fa fa-linkedin"}
+        ],
+        "NAVIGATE":[
+            {"text":"Advertisers"},
+            {"text":"Developers"},
+            {"text":"Resources"},
+            {"text":"Company"},
+            {"text":"Connect"}
+        ],
+        "PRIVACY":[
+            {"text":"Advertiser Agreement"},
+            {"text":"Acceptable Use Policy"},
+            {"text":"Privacy Policy"},
+            {"text":"Technology Privacy"},
+            {"text":"Developer Agreement"}
+        ],
+        "CONTACT":[
+            {"text":"Mailing Address:xx00 E. Union Ave"},
+            {"text":"Suite 1100. Denver, CO 80237"},
+            {"text":"+999 90932 627"},
+            {"text":"support@yourdomain.com"}
+        ],
+        "Copyright":"Copyright © All Rights Reserved"
+    }
+]
